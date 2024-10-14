@@ -1,3 +1,4 @@
+# XTern-Data-Science-Work-Prompt-2024
 Data Science Work Prompt
 One of the biggest aspects of the Xtern program is showcasing the cutting-edge technology and innovation our state has to offer. Indiana is not only home to a rich racing heritage, but it’s also becoming a hub for autonomous vehicle technology.  TechPoint has developed an application that not only enhances the spectator experience but also monetizes and promotes autonomous racing to the public. You will be asked to help solve various challenges as it relates to launching an immerse fan experience within the app, VeloCityX.   
 
